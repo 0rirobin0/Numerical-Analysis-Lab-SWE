@@ -10,6 +10,8 @@ task_103: Implementations and examples of the False Position Method (Regula Fals
 
 task_104: Implementations of the Newton-Raphson Method for finding roots of equations. Tangent lines are drawn at each iteration.
 
+task_201 :Gaussian_Elimination
+
 # Screenshot
 1. <b> Matrix Manupulation </b> <br>
 ![1 1](https://github.com/0rirobin0/Numerical-Analysis-Lab-SWE/assets/107853121/fe8c2c71-a742-43f1-ad8e-429505aed823) <br><br>
@@ -20,3 +22,8 @@ task_104: Implementations of the Newton-Raphson Method for finding roots of equa
 ![3](https://github.com/0rirobin0/Numerical-Analysis-Lab-SWE/assets/107853121/0637203b-d11f-46a9-b9dd-b63532bbd6e9)
 4. <b> Newton-Raphson Method </b><br>
 ![1 4](https://github.com/0rirobin0/Numerical-Analysis-Lab-SWE/assets/107853121/ba5f53a5-2d55-4813-a55c-d31f192fc29f)
+5. <b> Gaussian_Elimination </b><br>
+![Screenshot 2023-12-01 232521](https://github.com/0rirobin0/Numerical-Analysis-Lab-SWE/assets/107853121/1f671983-246d-4bda-9df8-8e6dfad8ae11)
+
+
+
